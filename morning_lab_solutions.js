@@ -40,7 +40,13 @@ e == 'Kevin';
 
 
 // Write the answers to The Farm here:
+let animal = "cow";
 
+if (animal == "cow") {
+	console.log("mooooo");
+} else {
+	console.log("Hey! You're not a cow!");
+}
 
 
 
@@ -50,9 +56,13 @@ e == 'Kevin';
 
 
 // Write the answers to Driver's Ed here:
+let age = 23
 
-
-
+if (age >= 16) {
+	console.log("Here re the keys");
+} else {
+	console.log("Sorry, you're too young")
+}
 
 
 
