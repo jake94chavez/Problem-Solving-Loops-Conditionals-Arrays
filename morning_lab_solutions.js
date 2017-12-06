@@ -30,13 +30,13 @@ console.log("Hello, my name is " + Jake);
 
 
 // Write the answers to your Boolean exercises here:
-
-
-
-
-
-
-
+a < b;
+c > d;
+'Name' == 'Name';
+a + b == c;
+a * a == d;
+e == 'Kevin';
+48 == '48';
 
 
 // Write the answers to The Farm here:
